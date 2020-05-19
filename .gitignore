@@ -6,6 +6,8 @@
 
 ./svn
 ./idea
+./springapp/.idea
+./springapp/.svn
 
 # BlueJ files
 *.ctxt
